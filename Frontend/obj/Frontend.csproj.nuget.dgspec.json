@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elian\\Documents\\Frontend\\Frontend.csproj": {}
+    "C:\\Users\\elian\\Documents\\gira\\Frontend\\Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elian\\Documents\\Frontend\\Frontend.csproj": {
+    "C:\\Users\\elian\\Documents\\gira\\Frontend\\Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elian\\Documents\\Frontend\\Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\elian\\Documents\\gira\\Frontend\\Frontend.csproj",
         "projectName": "Frontend",
-        "projectPath": "C:\\Users\\elian\\Documents\\Frontend\\Frontend.csproj",
+        "projectPath": "C:\\Users\\elian\\Documents\\gira\\Frontend\\Frontend.csproj",
         "packagesPath": "C:\\Users\\elian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elian\\Documents\\Frontend\\obj\\",
+        "outputPath": "C:\\Users\\elian\\Documents\\gira\\Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yZSLXna3rh5zdMGMsBXPjqvuc2K/cnxAwrDc/av4E6Ky/1OKUfV4S1Vbws5gFcfTXabJxA6Xx0wz/Uy+K2nhRw==",
+  "dgSpecHash": "cAYvi+Jy3dRm2GUdPsM23t2Ob5nY+9LwsmAxOt30umrM2tt3BSl+IlviMDMmbYtE1xQaqRYhv9Dzbo/rymLDNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elian\\Documents\\Frontend\\Frontend.csproj",
+  "projectFilePath": "C:\\Users\\elian\\Documents\\gira\\Frontend\\Frontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elian\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\elian\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
