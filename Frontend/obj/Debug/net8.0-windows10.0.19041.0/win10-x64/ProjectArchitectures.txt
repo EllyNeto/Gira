@@ -1,1 +1,0 @@
-C:\Users\elian\Documents\gira\Frontend\Frontend.csproj;x64
