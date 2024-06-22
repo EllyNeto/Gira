@@ -17,7 +17,7 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             <Image
-          Source="Resources\Images\loginnn.jpeg"
+          Source="Resources\Images2\loginnn.png"
           WidthRequest="100"
           HeightRequest="102"
           Grid.Column="1"

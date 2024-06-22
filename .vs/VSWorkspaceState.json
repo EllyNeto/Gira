@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\api"
+    "\\api",
+    "\\frontend"
   ],
+  "SelectedNode": "\\api\\GiraCom.sln",
   "PreviewInSolutionExplorer": false
 }

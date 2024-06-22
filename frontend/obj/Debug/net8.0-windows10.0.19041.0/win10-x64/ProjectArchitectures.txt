@@ -1,1 +1,1 @@
-C:\Users\elian\Documents\Gira\frontend\frontend.csproj;x64
+C:\Users\elian\Documents\gira\frontend\frontend.csproj;x64

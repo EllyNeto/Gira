@@ -40,14 +40,14 @@
 
 	<ItemGroup>
 		<!-- App Icon -->
-		<MauiIcon Include="Resources\AppIcon\gc.svg" ForegroundFile="Resources\AppIcon\GC.svg" Color="#90EE90" />
+		<MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\AppIcon\GC.svg" Color="#90EE90" />
 
 		<!-- Splash Screen -->
-		<MauiSplashScreen Include="Resources\Splash\gc2.svg" Color="#90EE90" BaseSize="128,128" />
+		<MauiSplashScreen Include="Resources\Splash\lash.svg" Color="#90EE90" BaseSize="128,128" />
 
 		<!-- Images -->
-		<MauiImage Update="Resources\Images\gc1.jpeg" Resize="True" BaseSize="300,185"/>
-		<MauiImage Update="Resources\Images\loginnn.jpeg" Resize="True" BaseSize="300,185" />
+		<MauiImage Include="Resources\Image2\logo.png" Resize="True" BaseSize="300,185" />
+		<MauiImage Include="Resources\Image2\loginnn.png" Resize="True" BaseSize="300,185" />
 
 		<!-- Custom Fonts -->
 		<MauiFont Include="Resources\Fonts\*" />

@@ -19,7 +19,7 @@
                 </Grid.ColumnDefinitions>
 
                 <Image
-                  Source="Resources\Images\gc1.jpeg"
+                  Source="Resources\Image2\gc1.png"
                   WidthRequest="100"
                   HeightRequest="102"
                   Grid.Column="1"

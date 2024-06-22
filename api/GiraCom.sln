@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GiraCom", "GiraCom.csproj",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api", "api.csproj", "{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frontend", "..\frontend\frontend.csproj", "{EA1624CA-E21C-4187-8E96-2C2279A7B4EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "frontend", "..\frontend\frontend.csproj", "{EA1624CA-E21C-4187-8E96-2C2279A7B4EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

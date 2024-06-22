@@ -10,226 +10,271 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.frontend</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\elian\Documents\Gira\frontend\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\elian\Documents\gira\frontend\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\elian\Documents\Gira\frontend\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\elian\Documents\gira\frontend\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\frontend.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\frontend.runtimeconfig.json">
       <PackagePath>frontend.runtimeconfig.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\frontend.dll">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\frontend.dll">
       <PackagePath>frontend.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>frontend.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gc2SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gc2SplashScreen.scale-100.png">
       <PackagePath>gc2SplashScreen.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gc2SplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gc2SplashScreen.scale-125.png">
       <PackagePath>gc2SplashScreen.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gc2SplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gc2SplashScreen.scale-150.png">
       <PackagePath>gc2SplashScreen.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gc2SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gc2SplashScreen.scale-200.png">
       <PackagePath>gc2SplashScreen.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gc2SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gc2SplashScreen.scale-400.png">
       <PackagePath>gc2SplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gcSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gcSplashScreen.scale-100.png">
       <PackagePath>gcSplashScreen.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gcSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gcSplashScreen.scale-125.png">
       <PackagePath>gcSplashScreen.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gcSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gcSplashScreen.scale-150.png">
       <PackagePath>gcSplashScreen.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gcSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gcSplashScreen.scale-200.png">
       <PackagePath>gcSplashScreen.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gcSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\gcSplashScreen.scale-400.png">
       <PackagePath>gcSplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\lashSplashScreen.scale-100.png">
+      <PackagePath>lashSplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\lashSplashScreen.scale-125.png">
+      <PackagePath>lashSplashScreen.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\lashSplashScreen.scale-150.png">
+      <PackagePath>lashSplashScreen.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\lashSplashScreen.scale-200.png">
+      <PackagePath>lashSplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\lashSplashScreen.scale-400.png">
+      <PackagePath>lashSplashScreen.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLargeTile.scale-400.png">
-      <PackagePath>gcLargeTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLargeTile.scale-200.png">
-      <PackagePath>gcLargeTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLargeTile.scale-150.png">
-      <PackagePath>gcLargeTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLargeTile.scale-125.png">
-      <PackagePath>gcLargeTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLargeTile.scale-100.png">
-      <PackagePath>gcLargeTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcWideTile.scale-400.png">
-      <PackagePath>gcWideTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcWideTile.scale-200.png">
-      <PackagePath>gcWideTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcWideTile.scale-150.png">
-      <PackagePath>gcWideTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcWideTile.scale-125.png">
-      <PackagePath>gcWideTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcWideTile.scale-100.png">
-      <PackagePath>gcWideTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcMediumTile.scale-400.png">
-      <PackagePath>gcMediumTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcMediumTile.scale-200.png">
-      <PackagePath>gcMediumTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcMediumTile.scale-150.png">
-      <PackagePath>gcMediumTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcMediumTile.scale-125.png">
-      <PackagePath>gcMediumTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcMediumTile.scale-100.png">
-      <PackagePath>gcMediumTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcSmallTile.scale-400.png">
-      <PackagePath>gcSmallTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcSmallTile.scale-200.png">
-      <PackagePath>gcSmallTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcSmallTile.scale-150.png">
-      <PackagePath>gcSmallTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcSmallTile.scale-125.png">
-      <PackagePath>gcSmallTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcSmallTile.scale-100.png">
-      <PackagePath>gcSmallTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcStoreLogo.scale-400.png">
-      <PackagePath>gcStoreLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcStoreLogo.scale-200.png">
-      <PackagePath>gcStoreLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcStoreLogo.scale-150.png">
-      <PackagePath>gcStoreLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcStoreLogo.scale-125.png">
-      <PackagePath>gcStoreLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcStoreLogo.scale-100.png">
-      <PackagePath>gcStoreLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>gcLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>gcLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>gcLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>gcLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-lightunplated_targetsize-16.png">
-      <PackagePath>gcLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>gcLogo.altform-unplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>gcLogo.altform-unplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>gcLogo.altform-unplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>gcLogo.altform-unplated_targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-unplated_targetsize-16.png">
-      <PackagePath>gcLogo.altform-unplated_targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.targetsize-256.png">
-      <PackagePath>gcLogo.targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.targetsize-48.png">
-      <PackagePath>gcLogo.targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.targetsize-32.png">
-      <PackagePath>gcLogo.targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.targetsize-24.png">
-      <PackagePath>gcLogo.targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.targetsize-16.png">
-      <PackagePath>gcLogo.targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.scale-400.png">
-      <PackagePath>gcLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.scale-200.png">
-      <PackagePath>gcLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.scale-150.png">
-      <PackagePath>gcLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.scale-125.png">
-      <PackagePath>gcLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.scale-100.png">
-      <PackagePath>gcLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gc.ico">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gc.ico">
       <PackagePath>gc.ico</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\elian\Documents\Gira\frontend\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\frontend.deps.json">
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLargeTile.scale-100.png">
+      <PackagePath>gcLargeTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLargeTile.scale-125.png">
+      <PackagePath>gcLargeTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLargeTile.scale-150.png">
+      <PackagePath>gcLargeTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLargeTile.scale-200.png">
+      <PackagePath>gcLargeTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLargeTile.scale-400.png">
+      <PackagePath>gcLargeTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>gcLogo.altform-lightunplated_targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>gcLogo.altform-lightunplated_targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>gcLogo.altform-lightunplated_targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>gcLogo.altform-lightunplated_targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>gcLogo.altform-lightunplated_targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-unplated_targetsize-16.png">
+      <PackagePath>gcLogo.altform-unplated_targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-unplated_targetsize-24.png">
+      <PackagePath>gcLogo.altform-unplated_targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-unplated_targetsize-256.png">
+      <PackagePath>gcLogo.altform-unplated_targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-unplated_targetsize-32.png">
+      <PackagePath>gcLogo.altform-unplated_targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.altform-unplated_targetsize-48.png">
+      <PackagePath>gcLogo.altform-unplated_targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.scale-100.png">
+      <PackagePath>gcLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.scale-125.png">
+      <PackagePath>gcLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.scale-150.png">
+      <PackagePath>gcLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.scale-200.png">
+      <PackagePath>gcLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.scale-400.png">
+      <PackagePath>gcLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.targetsize-16.png">
+      <PackagePath>gcLogo.targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.targetsize-24.png">
+      <PackagePath>gcLogo.targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.targetsize-256.png">
+      <PackagePath>gcLogo.targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.targetsize-32.png">
+      <PackagePath>gcLogo.targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcLogo.targetsize-48.png">
+      <PackagePath>gcLogo.targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcMediumTile.scale-100.png">
+      <PackagePath>gcMediumTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcMediumTile.scale-125.png">
+      <PackagePath>gcMediumTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcMediumTile.scale-150.png">
+      <PackagePath>gcMediumTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcMediumTile.scale-200.png">
+      <PackagePath>gcMediumTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcMediumTile.scale-400.png">
+      <PackagePath>gcMediumTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcSmallTile.scale-100.png">
+      <PackagePath>gcSmallTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcSmallTile.scale-125.png">
+      <PackagePath>gcSmallTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcSmallTile.scale-150.png">
+      <PackagePath>gcSmallTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcSmallTile.scale-200.png">
+      <PackagePath>gcSmallTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcSmallTile.scale-400.png">
+      <PackagePath>gcSmallTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcStoreLogo.scale-100.png">
+      <PackagePath>gcStoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcStoreLogo.scale-125.png">
+      <PackagePath>gcStoreLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcStoreLogo.scale-150.png">
+      <PackagePath>gcStoreLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcStoreLogo.scale-200.png">
+      <PackagePath>gcStoreLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcStoreLogo.scale-400.png">
+      <PackagePath>gcStoreLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcWideTile.scale-100.png">
+      <PackagePath>gcWideTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcWideTile.scale-125.png">
+      <PackagePath>gcWideTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcWideTile.scale-150.png">
+      <PackagePath>gcWideTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcWideTile.scale-200.png">
+      <PackagePath>gcWideTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\gcWideTile.scale-400.png">
+      <PackagePath>gcWideTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\loginnn.scale-100.png">
+      <PackagePath>loginnn.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\loginnn.scale-125.png">
+      <PackagePath>loginnn.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\loginnn.scale-150.png">
+      <PackagePath>loginnn.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\loginnn.scale-200.png">
+      <PackagePath>loginnn.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\loginnn.scale-400.png">
+      <PackagePath>loginnn.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
+      <PackagePath>logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-125.png">
+      <PackagePath>logo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-150.png">
+      <PackagePath>logo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-200.png">
+      <PackagePath>logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-400.png">
+      <PackagePath>logo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\elian\Documents\gira\frontend\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\frontend.deps.json">
       <PackagePath>frontend.deps.json</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\elian\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
