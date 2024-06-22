@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="White"
+             Shell.BackgroundColor="Black"
+             x:Class="frontend.Home"
+             Title="Home">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="30" Spacing="30">
+
+                <!-- Título da Página -->
+                <Label Text="Informações da Escola"
+                     FontSize="32"
+                     FontAttributes="Bold"
+                     HorizontalOptions="Center"
+                     TextColor="DarkGreen"/>
+
+                <!-- BoxView com Texto -->
+                <Frame BackgroundColor="LightYellow" CornerRadius="10" Padding="20" HasShadow="True">
+                    <StackLayout Spacing="10">
+                        <Label Text="Bem-vindo ao GiraCom!"
+                             FontSize="24"
+                             FontAttributes="Bold"
+                             TextColor="DarkGreen"
+                             HorizontalOptions="Center"/>
+                        <BoxView Color="LightGray" HeightRequest="2" HorizontalOptions="FillAndExpand"/>
+                        <Label Text="Aqui você encontra todas as informações importantes sobre nossa escola."
+                             FontSize="18"
+                             TextColor="Black"
+                             HorizontalOptions="Center"/>
+                    </StackLayout>
+                </Frame>
+                <StackLayout x:Name="ActivitiesLayout" Spacing="20"/>
+
+                <!-- Tabela de Informações da Escola -->
+                <Frame BorderColor="LightGray" CornerRadius="10" Padding="20" HasShadow="True" BackgroundColor="LightYellow">
+                    <StackLayout Spacing="15">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <Label Text="Nome da Escola:"
+                                 FontAttributes="Bold"
+                                 TextColor="Black"
+                                 Grid.Row="0" Grid.Column="0"/>
+                            <Label Text="Complexo Escolar Girassol"
+                                    TextColor="Black"
+                                 Grid.Row="0" Grid.Column="1"/>
+
+                            <Label Text="Endereço:"
+                                 FontAttributes="Bold"
+                                    TextColor="Black"
+                                 Grid.Row="1" Grid.Column="0"/>
+                            <Label Text="Benfica/Zona Verde,Rua 17"
+                                    TextColor="Black"
+                                 Grid.Row="1" Grid.Column="1"/>
+
+                            <Label Text="Telefone:"
+                                 FontAttributes="Bold"
+                                    TextColor="Black"
+                                 Grid.Row="2" Grid.Column="0"/>
+                            <Label Text="(11) 1234-5678"
+                                    TextColor="Black"
+                                 Grid.Row="2" Grid.Column="1"/>
+                        </Grid>
+                    </StackLayout>
+                </Frame>
+
+                <!-- Botões para Perfil -->
+                <StackLayout Orientation="Horizontal"
+                           HorizontalOptions="Center"
+                           Spacing="20">
+                    <Button Text="Perfil"
+                          WidthRequest="150"
+                          HeightRequest="50"
+                          BackgroundColor="LightGreen"
+                          TextColor="White"
+                          FontAttributes="Bold"
+                          CornerRadius="25"
+                          Clicked="OnStudentProfileButtonClicked"/>
+                    <Button Text="Adicionar Atividade"
+                    WidthRequest="180"
+                    HeightRequest="50"
+                    BackgroundColor="LightGreen"
+                    TextColor="White"
+                    FontAttributes="Bold"
+                    CornerRadius="25"
+                    Clicked="OnAddActivityButtonClicked"
+                    HorizontalOptions="Center"/>
+
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
