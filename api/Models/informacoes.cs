@@ -19,11 +19,11 @@ public partial class Informacoes
 
     public string? foto { get; set; }
 
-    public DateTime dataderealizacao { get; set; }
+    public DateTime data_de_realizacao { get; set; }
 
-    public DateTime? createdat { get; set; }
+    public DateTime? created_at { get; set; }
 
-    public DateTime? updatedat { get; set; }
+    public DateTime? updated_at { get; set; }
 
     public int? usuarioid { get; set; }
 

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="frontend.MainPage"
+             Shell.NavBarIsVisible="False"
+             BackgroundColor="White"
+             Title="Login">
+
+    <ScrollView>
+        <VerticalStackLayout>
+            <Grid
+             Padding="10,10,6,6"
+              RowSpacing="10"
+              ColumnSpacing="10"
+              RowDefinitions="*,*,*,*,*,*,*">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Image
+                  Source="Resources\Image2\gc1.png"
+                  WidthRequest="100"
+                  HeightRequest="102"
+                  Grid.Column="1"
+                  Grid.Row="3"
+                  >
+                </Image>
+                <Entry x:Name="usuarioo"
+                 Placeholder="Email ou nome de usuario"
+                 Grid.Row="4" 
+                 Grid.Column="1"
+              BackgroundColor="LightGreen">
+                </Entry>
+                <Entry x:Name="senha"
+               Placeholder="Senha"
+               Grid.Column ="3"
+                IsPassword="True"
+               Grid.Row="5"
+               BackgroundColor="LightGreen">
+                </Entry>
+
+            </Grid>
+            <Grid
+               Padding="10" 
+               RowSpacing="10"
+               ColumnSpacing="10"
+               RowDefinitions="*,*,*,*">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Label Text="Não tem uma conta?Clique aqui!"
+               Grid.Column="2"
+               Grid.Row="2"
+               TextColor="LightSteelBlue"
+               FontAttributes="Bold"
+               HorizontalOptions="CenterAndExpand">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer
+                  Tapped="OnLabelTapped" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <Button
+               Grid.Column="3"
+               Grid.Row="1"
+               BackgroundColor="Green"
+               Text="Login"
+               HeightRequest="50"
+               WidthRequest="100"
+               TextColor="White"
+               Clicked="OnClick"
+                >
+                </Button>
+            </Grid>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

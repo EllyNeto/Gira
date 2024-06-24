@@ -1,4 +1,6 @@
-using api.Data;
+using api.Dal.CRepository;
+using api.Dal.Data;
+using api.Dal.IRepository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -11,6 +13,12 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Configuração do Swagger
 builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddLogging(logging =>
+{
+    logging.AddConsole(); // Adiciona o logger do console
+    // Outras configurações de logging podem ser adicionadas aqui
+});
+
 builder.Services.AddControllers();
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
@@ -18,6 +26,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     throw new InvalidOperationException("Connection string 'DefaultConnection' not found"));
 
 });
+builder.Services.AddScoped<IInformacoesRepository, CInformacoes>();
+
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "GiraCom", Version = "v1" });
@@ -61,6 +71,7 @@ app.UseSwaggerUI(c =>
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "GiraCom V1");
     c.RoutePrefix = string.Empty; // Define a página inicial para o Swagger
 });
+
 
 app.UseRouting();
 app.UseAuthorization();

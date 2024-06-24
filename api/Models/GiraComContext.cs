@@ -58,11 +58,11 @@ public partial class GiraComContext : DbContext
             entity.ToTable("informacoes");
 
             entity.Property(e => e.id).HasColumnName("id");
-            entity.Property(e => e.createdat)
+            entity.Property(e => e.created_at)
                 .HasDefaultValueSql("CURRENT_TIMESTAMP")
                 .HasColumnType("timestamp without time zone")
                 .HasColumnName("created_at");
-            entity.Property(e => e.dataderealizacao)
+            entity.Property(e => e.data_de_realizacao)
                 .HasColumnType("timestamp without time zone")
                 .HasColumnName("data_de_realizacao");
             entity.Property(e => e.dataa)
@@ -80,7 +80,7 @@ public partial class GiraComContext : DbContext
             entity.Property(e => e.titulo)
                 .HasMaxLength(100)
                 .HasColumnName("titulo");
-            entity.Property(e => e.updatedat)
+            entity.Property(e => e.updated_at)
                 .HasDefaultValueSql("CURRENT_TIMESTAMP")
                 .HasColumnType("timestamp without time zone")
                 .HasColumnName("updated_at");

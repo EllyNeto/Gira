@@ -1,15 +1,113 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Gira\\api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1624CA-E21C-4187-8E96-2C2279A7B4EC}|..\\frontend\\frontend.csproj|c:\\users\\hp\\desktop\\gira\\frontend\\perfil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1624CA-E21C-4187-8E96-2C2279A7B4EC}|..\\frontend\\frontend.csproj|c:\\users\\hp\\desktop\\gira\\frontend\\cadastrar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1624CA-E21C-4187-8E96-2C2279A7B4EC}|..\\frontend\\frontend.csproj|c:\\users\\hp\\desktop\\gira\\frontend\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1624CA-E21C-4187-8E96-2C2279A7B4EC}|..\\frontend\\frontend.csproj|c:\\users\\hp\\desktop\\gira\\frontend\\irepository\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1624CA-E21C-4187-8E96-2C2279A7B4EC}|..\\frontend\\frontend.csproj|c:\\users\\hp\\desktop\\gira\\frontend\\irepository\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1624CA-E21C-4187-8E96-2C2279A7B4EC}|..\\frontend\\frontend.csproj|c:\\users\\hp\\desktop\\gira\\frontend\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1624CA-E21C-4187-8E96-2C2279A7B4EC}|..\\frontend\\frontend.csproj|c:\\users\\hp\\desktop\\gira\\frontend\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1624CA-E21C-4187-8E96-2C2279A7B4EC}|..\\frontend\\frontend.csproj|c:\\users\\hp\\desktop\\gira\\frontend\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\Gira\\frontend\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1624CA-E21C-4187-8E96-2C2279A7B4EC}|..\\frontend\\frontend.csproj|c:\\users\\hp\\desktop\\gira\\frontend\\dto\\dto_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|c:\\users\\hp\\desktop\\gira\\api\\dto\\dto_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|solutionrelative:dto\\dto_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|c:\\users\\hp\\desktop\\gira\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|solutionrelative:api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1624CA-E21C-4187-8E96-2C2279A7B4EC}|..\\frontend\\frontend.csproj|c:\\users\\hp\\desktop\\gira\\frontend\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|c:\\users\\hp\\desktop\\gira\\api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1624CA-E21C-4187-8E96-2C2279A7B4EC}|..\\frontend\\frontend.csproj|c:\\users\\hp\\desktop\\gira\\frontend\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|c:\\users\\hp\\desktop\\gira\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|c:\\users\\hp\\desktop\\gira\\api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|c:\\users\\hp\\desktop\\gira\\api\\dto\\dto_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|solutionrelative:dto\\dto_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1624CA-E21C-4187-8E96-2C2279A7B4EC}|..\\frontend\\frontend.csproj|c:\\users\\hp\\desktop\\gira\\frontend\\frontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|c:\\users\\hp\\desktop\\gira\\api\\dal\\crepository\\cinformacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|solutionrelative:dal\\crepository\\cinformacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|c:\\users\\hp\\desktop\\gira\\api\\controllers\\informacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|solutionrelative:controllers\\informacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|c:\\users\\hp\\desktop\\gira\\api\\dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|solutionrelative:dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|c:\\users\\hp\\desktop\\gira\\api\\dal\\irepository\\iinformacoesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|solutionrelative:dal\\irepository\\iinformacoesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|c:\\users\\hp\\desktop\\gira\\api\\dto\\dto_informacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|solutionrelative:dto\\dto_informacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|c:\\users\\hp\\desktop\\gira\\api\\models\\informacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|solutionrelative:models\\informacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|c:\\users\\hp\\desktop\\gira\\api\\models\\giracomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98EF1DA-B7FB-45ED-B446-66CCF4C74058}|api.csproj|solutionrelative:models\\giracomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1624CA-E21C-4187-8E96-2C2279A7B4EC}|..\\frontend\\frontend.csproj|c:\\users\\hp\\desktop\\gira\\frontend\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1624CA-E21C-4187-8E96-2C2279A7B4EC}|..\\frontend\\frontend.csproj|c:\\users\\hp\\desktop\\gira\\frontend\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 31,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,6 +136,370 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "api",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\api\\api.csproj",
+              "RelativeDocumentMoniker": "api.csproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\api\\api.csproj",
+              "RelativeToolTip": "api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T01:45:34.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "..\\frontend\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "..\\frontend\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAcwEoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:40:17.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\frontend\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\MainPage.xaml.cs",
+              "RelativeToolTip": "..\\frontend\\MainPage.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:11:46.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "..\\frontend\\Home.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\Home.xaml.cs",
+              "RelativeToolTip": "..\\frontend\\Home.xaml.cs",
+              "ViewState": "AQIAAAAAAAAgDMMwASAnwBIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:11:21.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\MainPage.xaml",
+              "RelativeDocumentMoniker": "..\\frontend\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\MainPage.xaml",
+              "RelativeToolTip": "..\\frontend\\MainPage.xaml",
+              "ViewState": "AQIAAAwAAABAPc8f1RwuwCUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T23:11:15.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dto_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\api\\Dto\\Dto_Usuario.cs",
+              "RelativeDocumentMoniker": "Dto\\Dto_Usuario.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\api\\Dto\\Dto_Usuario.cs",
+              "RelativeToolTip": "Dto\\Dto_Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:00:51.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dto_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\Dto\\Dto_Usuario.cs",
+              "RelativeDocumentMoniker": "..\\frontend\\Dto\\Dto_Usuario.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\Dto\\Dto_Usuario.cs",
+              "RelativeToolTip": "..\\frontend\\Dto\\Dto_Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:00:47.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\IRepository\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "..\\frontend\\IRepository\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\IRepository\\UsuarioService.cs",
+              "RelativeToolTip": "..\\frontend\\IRepository\\UsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:16:01.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\IRepository\\IUsuario.cs",
+              "RelativeDocumentMoniker": "..\\frontend\\IRepository\\IUsuario.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\IRepository\\IUsuario.cs",
+              "RelativeToolTip": "..\\frontend\\IRepository\\IUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:09:17.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\frontend\\Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\Model\\Usuario.cs",
+              "RelativeToolTip": "..\\frontend\\Model\\Usuario.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:06:27.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\api\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\api\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAgAAAAAq6qq+H0lwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:04:33.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frontend.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\frontend.csproj",
+              "RelativeDocumentMoniker": "..\\frontend\\frontend.csproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\frontend.csproj",
+              "RelativeToolTip": "..\\frontend\\frontend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T18:18:50.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dto_Login.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\api\\Dto\\Dto_Login.cs",
+              "RelativeDocumentMoniker": "Dto\\Dto_Login.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\api\\Dto\\Dto_Login.cs",
+              "RelativeToolTip": "Dto\\Dto_Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:48:55.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:27:10.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GiraComContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\api\\Models\\GiraComContext.cs",
+              "RelativeDocumentMoniker": "Models\\GiraComContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\api\\Models\\GiraComContext.cs",
+              "RelativeToolTip": "Models\\GiraComContext.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAIBZwCoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:25:35.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "informacoes.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\api\\Models\\informacoes.cs",
+              "RelativeDocumentMoniker": "Models\\informacoes.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\api\\Models\\informacoes.cs",
+              "RelativeToolTip": "Models\\informacoes.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA+wB8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T02:16:37.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CInformacoes.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\api\\Dal\\CRepository\\CInformacoes.cs",
+              "RelativeDocumentMoniker": "Dal\\CRepository\\CInformacoes.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\api\\Dal\\CRepository\\CInformacoes.cs",
+              "RelativeToolTip": "Dal\\CRepository\\CInformacoes.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAIBZwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T01:55:30.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Dto_Informacoes.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\api\\Dto\\Dto_Informacoes.cs",
+              "RelativeDocumentMoniker": "Dto\\Dto_Informacoes.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\api\\Dto\\Dto_Informacoes.cs",
+              "RelativeToolTip": "Dto\\Dto_Informacoes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T01:21:30.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IInformacoesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\api\\Dal\\IRepository\\IInformacoesRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\IRepository\\IInformacoesRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\api\\Dal\\IRepository\\IInformacoesRepository.cs",
+              "RelativeToolTip": "Dal\\IRepository\\IInformacoesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T01:18:02.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InformacoesController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\api\\Controllers\\InformacoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InformacoesController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\api\\Controllers\\InformacoesController.cs",
+              "RelativeToolTip": "Controllers\\InformacoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T01:04:19.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\api\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\api\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:51:00.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\api\\Dal\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Dal\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\api\\Dal\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Dal\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:50:53.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\App.xaml",
+              "RelativeDocumentMoniker": "..\\frontend\\App.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\App.xaml",
+              "RelativeToolTip": "..\\frontend\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T23:45:09.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\AppShell.xaml",
+              "RelativeDocumentMoniker": "..\\frontend\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\AppShell.xaml",
+              "RelativeToolTip": "..\\frontend\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T23:45:07.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Perfil.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\Perfil.xaml",
+              "RelativeDocumentMoniker": "..\\frontend\\Perfil.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\Perfil.xaml",
+              "RelativeToolTip": "..\\frontend\\Perfil.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T23:44:57.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "..\\frontend\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\MauiProgram.cs",
+              "RelativeToolTip": "..\\frontend\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:44:41.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\Home.xaml",
+              "RelativeDocumentMoniker": "..\\frontend\\Home.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\Home.xaml",
+              "RelativeToolTip": "..\\frontend\\Home.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T23:44:38.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cadastrar.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\Cadastrar.xaml",
+              "RelativeDocumentMoniker": "..\\frontend\\Cadastrar.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Gira\\frontend\\Cadastrar.xaml",
+              "RelativeToolTip": "..\\frontend\\Cadastrar.xaml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAEEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T23:41:42.669Z",
+              "EditorCaption": ""
             }
           ]
         }

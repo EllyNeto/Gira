@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="frontend.Perfil"
+             Title="Perfil">
+    <VerticalStackLayout>
+        <ScrollView>
+            <StackLayout Padding="20">
+                <Image Source="admin_photo.png" HeightRequest="100" WidthRequest="100" HorizontalOptions="Center" />
+                <Label Text="Nome: Armindo Cesar" FontSize="20" Margin="0,20,0,0"/>
+                <Label Text="Email: armindocesar81@gmail.com" FontSize="20" Margin="0,10,0,0"/>
+                <Label Text="Telefone: 935131683" FontSize="20" Margin="0,10,0,0"/>
+                <Label Text="Cargo: Administrador" FontSize="20" Margin="0,10,0,0"/>
+                <!-- Adicione mais informações conforme necessário -->
+            </StackLayout>
+        </ScrollView>
+        <StackLayout Orientation="Horizontal"
+            HorizontalOptions="Center"
+            Spacing="20">
+            <Button Text="Home"
+           WidthRequest="150"
+           HeightRequest="50"
+           BackgroundColor="LightGreen"
+           TextColor="White"
+           FontAttributes="Bold"
+           CornerRadius="25"
+           Clicked="OnStudentHomeButtonClicked"/>
+            <Button Text="Perfil"
+               WidthRequest="180"
+               HeightRequest="50"
+               BackgroundColor="LightGreen"
+               TextColor="White"
+               FontAttributes="Bold"
+               CornerRadius="25"
+               Clicked="OnAddProfileButtonClicked"
+                HorizontalOptions="Center"/>
+
+        </StackLayout>
+    </VerticalStackLayout>
+</ContentPage>
